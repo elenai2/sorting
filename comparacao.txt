@@ -1,0 +1,4 @@
+Ao escolher um algoritmo de classificação a ser usado, avalie esses fatores. 
+Por exemplo, quicksort é um algoritmo muito rápido, mas pode ser bastante complicado de implementar;
+bubble sort é um algoritmo lento, mas muito fácil de implementar. 
+Para classificar pequenos conjuntos de dados, o bubble sort pode ser uma opção melhor, pois pode ser implementado rapidamente, mas para conjuntos de dados maiores, a aceleração do quicksort pode valer a pena implementar o algoritmo.
